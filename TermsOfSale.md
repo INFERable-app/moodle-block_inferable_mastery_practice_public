@@ -5,7 +5,7 @@
 
 **Last Updated:** March 27, 2026
 
-**INFERable**&reg; is a Public Benefit Corporation with a mission to make a material positive impact on systems of education, training, and human development. By purchasing a subscription or installing our software through the Moodle Marketplace, you agree to the following terms. These terms are designed to supplement and conform with the **Moodle Marketplace Terms of Sale** while specifically addressing the unique services provided by INFERable.
+**INFERable**&reg;, a Public Benefit Corporation ("INFERable") has a mission to make a material positive impact on systems of education, training, and human development. By purchasing a subscription or installing our software through the Moodle Marketplace, you agree to the following terms. These terms are designed to supplement and conform with the Moodle Marketplace Terms and Policies while specifically addressing the unique services provided by INFERable.
 
 ---
 
